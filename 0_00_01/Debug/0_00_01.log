@@ -1,0 +1,13 @@
+﻿  Source.cpp
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(36,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(36,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(49,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(49,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(60,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(191,7): warning C4101: 'choice': unreferenced local variable
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(292,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(387,24): warning C4244: 'argument': conversion from 'time_t' to 'double', possible loss of data
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(395,11): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(262,21): warning C4101: 'now': unreferenced local variable
+F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\0_00_01\Source.cpp(280,25): warning C4101: 'select': unreferenced local variable
+  0_00_01.vcxproj -> F:\OneDrive - KMITL\KMITL\หลังย้ายสาขา\01076002 Programming Fundamental[18]\MY txt mode game\version2\0_00_01\Debug\0_00_01.exe
